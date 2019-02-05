@@ -18,7 +18,12 @@ We chose a MIT license because thats what the inital project uses and the LICENS
 - https://github.com/Max-Escaler/openSourceLicenseLab.git
 ### Wrtie five sentence about choosing a project to work on in this course, who will be users/customers of such a project, and what license you would choose.
 Again the only orginal project that I would can think of would be my "Beir-run" game. It would be a funny and silly game where someone has to collect alcholic drinks and the more you collect the harder the controls get. It would be made for older audiences with a sense of humor due to alcholic drinks.   
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
+| Website  | License Present | License |
+| ------------- | ------------- | ------- |
+| https://github.com/codingandcommunity/rcos-open-source-curriculum-project  | Yes  | MIT |
+| https://www.cs.rpi.edu/~goldsd/agency-pitch.pdf| Yes | GPL v3 |
+| https://github.com/saprap1/auto-calendar| Yes | MIT |
+| https://github.com/justinchen673/Catan-AI| Yes | MIT |
+| https://github.com/justinbot/flock| Yes | MIT |
+
